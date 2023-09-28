@@ -6,7 +6,7 @@ git config --global user.name "Tatsuki-Oike"
 git config --global user.email "Tatsuki-Oike@example.com"
 git config --list
 ```
-
+git
 
 # 1 Gitの基礎
 ***
